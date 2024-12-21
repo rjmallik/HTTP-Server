@@ -11,7 +11,7 @@
 #include <unistd.h>
 #include <regex.h>
 #include <stdbool.h>
-#include "asgn2_helper_funcs.h"
+#include "helper_funcs.h"
 #include "debug.h"
 #include "protocol.h"
 
